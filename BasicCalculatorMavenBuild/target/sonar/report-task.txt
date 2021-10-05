@@ -1,0 +1,6 @@
+projectKey=com.cts.sonarpractice:BasicCalculator
+serverUrl=http://ltin292635:9090
+serverVersion=7.9.6.41879
+dashboardUrl=http://ltin292635:9090/dashboard?id=com.cts.sonarpractice%3ABasicCalculator
+ceTaskId=AXlWUQTbSv4T_-za_TWE
+ceTaskUrl=http://ltin292635:9090/api/ce/task?id=AXlWUQTbSv4T_-za_TWE
